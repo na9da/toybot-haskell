@@ -1,0 +1,6 @@
+.stack-work/
+toybot.cabal
+*~
+
+/stack.yaml
+/shell.drv
